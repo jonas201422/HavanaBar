@@ -1,0 +1,23 @@
+{
+  "intro": "Wir sind Gastgeber aus Leidenschaft. Das Team der Havana Lounge Bar verbindet Premium-Drinks mit echter Linzer Gastfreundschaft.",
+  "members": [
+    {
+      "name": "Dardan Ramadani",
+      "role": "Inhaber & Gastgeber",
+      "bio": "Seit 2018 führt Dardan die Havana Lounge Bar mit Fokus auf stilvolle Nächte, hochwertige Drinks und persönliche Betreuung.",
+      "image": "/images/team/dardan-ramadani-placeholder.svg"
+    },
+    {
+      "name": "Elena",
+      "role": "Bar Managerin",
+      "bio": "Mixologin mit Faible für Rum-Klassiker und moderne Signature-Cocktails.",
+      "image": "/images/team/elena-placeholder.svg"
+    },
+    {
+      "name": "Arben",
+      "role": "Shisha Sommelier",
+      "bio": "Kuratiert feinste Aromen und sorgt für perfekte Shisha-Setups jeden Abend.",
+      "image": "/images/team/arben-placeholder.svg"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#101217" />
+  <ellipse cx="800" cy="520" rx="520" ry="280" fill="rgba(192,122,58,0.25)" />
+  <text x="220" y="520" fill="#E7E9EC" font-size="72" font-family="'Playfair Display', serif">Shisha Evening</text>
+  <text x="220" y="600" fill="#8A8F98" font-size="30" font-family="Inter, sans-serif">Platzhalter – bitte echtes Foto einsetzen</text>
+</svg>

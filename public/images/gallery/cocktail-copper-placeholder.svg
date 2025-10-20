@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#0B0D0F" />
+  <circle cx="600" cy="520" r="260" fill="rgba(192,122,58,0.35)" />
+  <text x="150" y="900" fill="#E7E9EC" font-size="72" font-family="'Playfair Display', serif">Signature Cocktail</text>
+  <text x="150" y="980" fill="#8A8F98" font-size="32" font-family="Inter, sans-serif">Ersetze durch echtes Foto vom Drink</text>
+</svg>
