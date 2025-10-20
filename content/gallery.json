@@ -1,25 +1,73 @@
 {
-  "placeholderNotice": "Bitte ersetzen Sie die Platzhalterbilder durch lizenzierte Fotos aus den verlinkten Quellen.",
   "images": [
     {
-      "src": "/images/gallery/lounge-ambience-placeholder.svg",
-      "alt": "Dunkle Lounge mit warmem Licht und Barkeeper",
+      "src": "/content/IMG_0414.jpeg",
+      "alt": "Moderner Loungebereich mit grüner Beleuchtung und Sitzecken",
       "width": 1600,
-      "height": 1000,
+      "height": 900,
       "orientation": "landscape"
     },
     {
-      "src": "/images/gallery/cocktail-copper-placeholder.svg",
-      "alt": "Kupferfarbener Cocktail auf Marmor-Theke",
-      "width": 1200,
-      "height": 1600,
+      "src": "/content/IMG_0415.jpeg",
+      "alt": "Cocktail mit Minze und Rauch",
+      "width": 900,
+      "height": 1200,
       "orientation": "portrait"
     },
     {
-      "src": "/images/gallery/shisha-evening-placeholder.svg",
-      "alt": "Gruppe genießt Shisha in eleganter Sitzecke",
-      "width": 1600,
+      "src": "/content/IMG_0416.jpeg",
+      "alt": "Eiskübel mit Jack Daniel's Flasche und Wunderkerze",
+      "width": 1200,
+      "height": 900,
+      "orientation": "landscape"
+    },
+    {
+      "src": "/content/IMG_0417.jpeg",
+      "alt": "Eiskübel mit Bacardi-Flasche",
+      "width": 1200,
+      "height": 900,
+      "orientation": "landscape"
+    },
+    {
+      "src": "/content/IMG_0418.jpeg",
+      "alt": "Longdrink mit Limette und Minze",
+      "width": 900,
+      "height": 1200,
+      "orientation": "portrait"
+    },
+    {
+      "src": "/content/IMG_0419.jpeg",
+      "alt": "Logo der Havana Lounge Bar",
+      "width": 1000,
       "height": 1000,
+      "orientation": "portrait"
+    },
+    {
+      "src": "/content/IMG_0420.jpeg",
+      "alt": "Werbeplakat zur Wiedereröffnung der Bar",
+      "width": 900,
+      "height": 1200,
+      "orientation": "portrait"
+    },
+    {
+      "src": "/content/IMG_0421.jpeg",
+      "alt": "Cocktailglas mit Limettenscheibe und Minze",
+      "width": 900,
+      "height": 1200,
+      "orientation": "portrait"
+    },
+    {
+      "src": "/content/IMG_0422.jpeg",
+      "alt": "Reihe bunter Cocktails an der Bar",
+      "width": 1200,
+      "height": 900,
+      "orientation": "landscape"
+    },
+    {
+      "src": "/content/IMG_0423.jpeg",
+      "alt": "Cocktail und Barambiente",
+      "width": 1200,
+      "height": 900,
       "orientation": "landscape"
     }
   ]
