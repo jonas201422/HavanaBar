@@ -1,22 +1,16 @@
-# GitHub Pages deployment configuration
-# Build the Next.js site and deploy to GitHub Pages
-
 name: Deploy Next.js site to GitHub Pages
 
 on:
   push:
-    branches:
-      - codex/build-production-ready-website-for-havana-lounge-bar
-  workflow_dispatch:
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
+    branches: [codex/build-production-ready-website-for-havana-lounge-bar]
 
 permissions:
-  contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -24,42 +18,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: 18
           cache: 'pnpm'
 
-      - name: Install PNPM
+      - name: Install pnpm
         run: npm install -g pnpm
 
       - name: Install dependencies
         run: pnpm install
 
       - name: Build Next.js site
-        run: pnpm build
+        run: pnpm run build
 
-      - name: Export static site
-        run: npx next export
-
-      - name: Add .nojekyll file
-        run: echo "" > out/.nojekyll
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out
+          path: './out'
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      pages: write
-      id-token: write
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+      - id: deployment
+        name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
