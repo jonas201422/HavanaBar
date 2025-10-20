@@ -1,0 +1,30 @@
+{
+  "instagram": {
+    "profile": "https://www.instagram.com/havana_lounge_bar_/",
+    "latest": [
+      {
+        "title": "Signature Cocktail Night",
+        "image": "/images/social/instagram-signature-placeholder.svg",
+        "url": "https://www.instagram.com/havana_lounge_bar_/",
+        "postedAt": "vor 3 Tagen"
+      },
+      {
+        "title": "Latin Beats",
+        "image": "/images/social/instagram-latin-placeholder.svg",
+        "url": "https://www.instagram.com/havana_lounge_bar_/",
+        "postedAt": "vor 1 Woche"
+      }
+    ]
+  },
+  "facebook": {
+    "profile": "https://www.facebook.com/HavanaLoungeBar",
+    "latest": [
+      {
+        "title": "Afterwork Moments",
+        "image": "/images/social/facebook-afterwork-placeholder.svg",
+        "url": "https://www.facebook.com/HavanaLoungeBar",
+        "postedAt": "vor 5 Tagen"
+      }
+    ]
+  }
+}

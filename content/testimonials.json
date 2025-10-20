@@ -1,0 +1,21 @@
+{
+  "averageRating": "4.7",
+  "source": "Google Reviews",
+  "reviews": [
+    {
+      "author": "Sophie K.",
+      "quote": "Beste Cocktails in Linz! Stimmung, Musik und Service top.",
+      "rating": 5
+    },
+    {
+      "author": "Marko P.",
+      "quote": "Edles Ambiente, tolle Shishas und freundliches Team.",
+      "rating": 5
+    },
+    {
+      "author": "Leonie R.",
+      "quote": "Perfekt für Afterwork – Reservierung klappt unkompliziert via WhatsApp.",
+      "rating": 4
+    }
+  ]
+}

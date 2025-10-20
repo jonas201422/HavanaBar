@@ -1,0 +1,8 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript", "prettier"],
+  "rules": {
+    "@next/next/no-img-element": "off",
+    "react/jsx-curly-brace-presence": ["error", { "props": "never", "children": "never", "propElementValues": "always" }],
+    "react/jsx-sort-props": ["error", { "callbacksLast": true, "shorthandFirst": true, "ignoreCase": true }]
+  }
+}

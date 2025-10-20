@@ -1,0 +1,25 @@
+{
+  "intro": "Eine kuratierte Auswahl internationaler Premium-Tabaksorten. Bitte Aromen regelmäßig aktualisieren.",
+  "mixes": [
+    {
+      "name": "Marrakesh Mint",
+      "profile": "Grüne Minze, leichter Zitrus",
+      "strength": "Mild"
+    },
+    {
+      "name": "Tropical Havana",
+      "profile": "Ananas, Mango, Kokos",
+      "strength": "Medium"
+    },
+    {
+      "name": "Dark Spice",
+      "profile": "Dunkle Beeren, Anis, Kardamom",
+      "strength": "Intensiv"
+    }
+  ],
+  "upgrades": [
+    "Premium-Kohle inklusive",
+    "Fruchtkopf-Upgrade auf Anfrage",
+    "Einweg-Mundstücke für maximale Hygiene"
+  ]
+}

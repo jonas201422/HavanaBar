@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#111318" />
+  <circle cx="300" cy="240" r="160" fill="#1b1f26" stroke="#8A8F98" stroke-width="6" stroke-opacity="0.4" />
+  <text x="60" y="520" fill="#E7E9EC" font-size="48" font-family="'Playfair Display', serif">Elena</text>
+  <text x="60" y="580" fill="#8A8F98" font-size="22" font-family="Inter, sans-serif">Bar Managerin · Foto austauschen</text>
+</svg>

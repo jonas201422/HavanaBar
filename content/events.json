@@ -1,0 +1,23 @@
+{
+  "intro": "Von Live-DJs bis zu Rum-Tastings – in der Havana Lounge Bar wird jede Nacht zum Erlebnis.",
+  "events": [
+    {
+      "title": "Latin Groove Fridays",
+      "date": "Jeden Freitag",
+      "time": "ab 21:00 Uhr",
+      "description": "Tropische Beats, Signature-Cocktails und Specials auf ausgewählte Rums.",
+      "cta": "Jetzt Tisch sichern",
+      "ctaUrl": "https://wa.me/436764205852?text=Hallo%20Havana%20Lounge%20Bar,%20ich%20möchte%20für%20Latin%20Groove%20Fridays%20reservieren.",
+      "tags": ["DJ", "Latin", "Specials"]
+    },
+    {
+      "title": "Shisha Sundays",
+      "date": "Jeden Sonntag",
+      "time": "19:00 – 02:00 Uhr",
+      "description": "Gemütliche Lounge-Beats, feinste Shishas und hausgemachte Mocktails.",
+      "cta": "Platz anfragen",
+      "ctaUrl": "mailto:havana.lounge.bar@gmx.at?subject=Reservierung%20Shisha%20Sunday",
+      "tags": ["Shisha", "Relax"]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "note": "Aktuelle Zeiten bitte im CMS aktualisieren",
+  "days": [
+    { "day": "Montag", "hours": "geschlossen" },
+    { "day": "Dienstag", "hours": "18:00 – 02:00" },
+    { "day": "Mittwoch", "hours": "18:00 – 02:00" },
+    { "day": "Donnerstag", "hours": "18:00 – 03:00" },
+    { "day": "Freitag", "hours": "18:00 – 04:00" },
+    { "day": "Samstag", "hours": "18:00 – 04:00" },
+    { "day": "Sonntag", "hours": "geschlossen" }
+  ]
+}

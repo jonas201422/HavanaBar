@@ -1,0 +1,63 @@
+{
+  "lastUpdated": "2024-01-01",
+  "signatureCocktail": {
+    "name": "Havana Signature Daiquiri",
+    "description": "Premium-Rum, Limette, hausgemachter Zuckersirup, flambierte Orangenzeste",
+    "price": "€12"
+  },
+  "sections": [
+    {
+      "title": "Cocktails",
+      "items": [
+        {
+          "name": "Mojito Clasico",
+          "description": "Havana Club Especial, Minze, Rohrzucker, Limette, Soda",
+          "price": "€11",
+          "tags": ["Signature", "Rum"]
+        },
+        {
+          "name": "Old Fashioned",
+          "description": "Rye Whiskey, Angostura, Zuckersirup, Orange",
+          "price": "€12",
+          "tags": ["Stark", "Classic"]
+        }
+      ]
+    },
+    {
+      "title": "Champagner & Wein",
+      "items": [
+        {
+          "name": "Champagner Brut",
+          "description": "Glas 0,1l",
+          "price": "€14",
+          "tags": ["Perlwein"]
+        }
+      ]
+    },
+    {
+      "title": "Alkoholfrei",
+      "items": [
+        {
+          "name": "Virgin Passion",
+          "description": "Passionsfrucht, Limette, Vanille, Soda",
+          "price": "€8",
+          "tags": ["Fruity", "Vegan"]
+        }
+      ]
+    }
+  ],
+  "pdfs": [
+    {
+      "title": "Getränkekarte",
+      "file": "/pdfs/havana-drinks-placeholder.pdf",
+      "description": "Originalkarte als PDF – bitte durch aktuelles Dokument ersetzen",
+      "version": "v2024 placeholder"
+    },
+    {
+      "title": "Shisha Menü",
+      "file": "/pdfs/havana-shisha-placeholder.pdf",
+      "description": "Shisha-Aromen & Preise",
+      "version": "v2024 placeholder"
+    }
+  ]
+}
